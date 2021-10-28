@@ -1,10 +1,10 @@
 ![Banner](imagenes/banner.png)
 
-# M1S1: HTML y CSS 
+# M3SEM3Y4-WDF: Fundamentos de HTML y CSS 
 
-> #### **¡Hola, damos inicio al módulo 1!**
+> #### **¡Hola, damos inicio al módulo 3!**
 > #### Espero te encuentres muy bien y con mucha motivación para continuar el recorrido, supongo que ya tienes instalado todo lo necesario para que tu computadora esté lista para trabajar.
-> #### Recuerda que en la U Class 0 debías realizar unas actividades para lograr este objetivo, de lo contrario ingresa nuevamente a la U Class 0, consulta, descarga y realiza las actividades allí señaladas, antes de continuar con este módulo, y una vez tengas tu computadora lista, sigamos adelante.
+> #### Recuerda que en la U Class pasada debías realizar unas actividades para lograr este objetivo, de lo contrario ingresa nuevamente al contenido, consulta, descarga y realiza las actividades allí señaladas, antes de continuar con este módulo, y una vez tengas tu computadora lista, sigamos adelante.
 > #### **Continuemos...**
 
 En esta sesión, iniciamos con los conceptos básicos de HTML y CSS, relativas al desarrollo de interfaces.
