@@ -1,6 +1,6 @@
 ![Banner](imagenes/banner.png)
 
-# M3SEM3Y4-WDF: Fundamentos de HTML y CSS 
+# M3SEM3Y4: Fundamentos de HTML y CSS 
 
 > #### **¡Hola, damos inicio al módulo 3!**
 > #### Espero te encuentres muy bien y con mucha motivación para continuar el recorrido, supongo que ya tienes instalado todo lo necesario para que tu computadora esté lista para trabajar.
