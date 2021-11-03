@@ -269,7 +269,7 @@ De cualquier manera, SVG se ha ido imponiendo poco a poco como formato estándar
 ```
 _Ejemplo de HTML con SVG_
 
-> #### ¿Qué te pareció el contenido de HTML?. Si quieres te dejo una infografía que resume un poco el tema tratado con HTML la cual podrás consultar y descargar [presiona aquí](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF/blob/main/infografias/M1_S1_Infografia%2001.pdf) 
+> #### ¿Qué te pareció el contenido de HTML?. Si quieres te dejo una infografía que resume un poco el tema tratado con HTML la cual podrás consultar y descargar [presiona aquí](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF/blob/main/infografias/M3_S3_4_Infografia_html.pdf) 
 
 > #### Ahora bien, hasta ahora has notado que únicamente hemos hablado y visto la estructura de un documento HTML.
 > #### Pero quizás te preguntarás, ¿Cómo se desarrolla el diseño visual de este documento?, para ello iniciamos con el contenido de CSS que sigue a continuación. 
@@ -527,7 +527,7 @@ Para poder configurar el texto y que el explorador cargue las fuentes específic
 
 Para acortar código, es posible usar la directiva `font` directamente y asignar esos valores, no requiriendo estar en algún orden en específico, pero sí, al menos que se defina el tamaño y la familia (ejemplo `font: 12px Arial, sans-serif;`).
 
-> #### ¿Qué te pareción el contenido de CSS?, si deseas puedes consultar y descargar una infografía sobre este contenido, [Presiona aquí](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF/blob/main/infografias/M1_S1_Infografia%2002%20(1).pdf)
+> #### ¿Qué te pareción el contenido de CSS?, si deseas puedes consultar y descargar una infografía sobre este contenido, [Presiona aquí](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF/blob/main/infografias/M3_S3_4_Infografia_css.pdf)
 
 > #### Muy bien, llegamos hasta aquí por ahora, recuerda que puedes hacerle preguntas a tus coaches en caso de ser necesario, leer el contenido nuevamente si así lo deseas y puedes practicar lo aprendido ingresando a este link https://codepen.io/pen/  
 > #### Nos vemos en la siguiente semana. :smiley:
