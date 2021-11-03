@@ -3,29 +3,29 @@
 # M3S3Y4: Fundamentos de HTML y CSS 
 
 > #### **¡Hola, damos inicio al módulo 3!**
-> #### Espero te encuentres muy bien y con mucha motivación para continuar el recorrido, supongo que ya tienes instalado todo lo necesario para que tu computadora esté lista para trabajar.
-> #### Recuerda que en la U Class pasada debías realizar unas actividades para lograr este objetivo, de lo contrario ingresa nuevamente al contenido, consulta, descarga y realiza las actividades allí señaladas, antes de continuar con este módulo, y una vez tengas tu computadora lista, sigamos adelante.
+> #### Espero te encuentres muy bien y con mucha motivación para continuar el recorrido, recuerda siempre por qué estas aquí y sigue adelante.
 > #### **Continuemos...**
 
 En esta sesión, iniciamos con los conceptos básicos de HTML y CSS, relativas al desarrollo de interfaces.
 
 # ÍNDICE
 
-- [Fundamentos de HTML](https://github.com/U-Camp/BOOT-M1-SEM1#fundamentos-de-html)
-    - [Etiquetas y atributos](https://github.com/U-Camp/BOOT-M1-SEM1#etiquetas-y-atributos)
-      - [Formato](https://github.com/U-Camp/BOOT-M1-SEM1#formato)
-      - [Enlaces](https://github.com/U-Camp/BOOT-M1-SEM1#enlaces)
-      - [Atributos HTML](https://github.com/U-Camp/BOOT-M1-SEM1#atributos-html)      
-      - [Imágenes SVG](https://github.com/U-Camp/BOOT-M1-SEM1#im%C3%A1genes-svg)
-- [CSS](https://github.com/U-Camp/BOOT-M1-SEM1#css)
-    - [Reglas y declaraciones](https://github.com/U-Camp/BOOT-M1-SEM1#reglas-y-declaraciones)
-      - [Estructura](https://github.com/U-Camp/BOOT-M1-SEM1#estructura)
-      - [Especificidad](https://github.com/U-Camp/BOOT-M1-SEM1#especificidad)
-    - [Bordes](https://github.com/U-Camp/BOOT-M1-SEM1#bordes)
-    - [Márgenes](https://github.com/U-Camp/BOOT-M1-SEM1#m%C3%A1rgenes)
-    - [Padding](https://github.com/U-Camp/BOOT-M1-SEM1#padding)
-    - [Fondos](https://github.com/U-Camp/BOOT-M1-SEM1#fondos)
-    - [Texto y Fuentes](https://github.com/U-Camp/BOOT-M1-SEM1#texto-y-fuentes)
+- [Fundamentos de HTML](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#fundamentos-de-html)
+    - [Etiquetas y atributos](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#etiquetas-y-atributos)
+      - [Formato](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#formato)
+      - [Enlaces](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#enlaces)
+      - [Atributos HTML](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#atributos-html)      
+      - [Imágenes SVG](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#im%C3%A1genes-svg)
+- [CSS](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#css)
+    - [Reglas y declaraciones](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#reglas-y-declaraciones)
+      - [Estructura](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#estructura)
+      - [Especificidad](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#especificidad)
+    - [Bordes](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#bordes)
+    - [Márgenes](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#m%C3%A1rgenes)
+    - [Padding](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#padding)
+    - [Colores](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#colores)
+    - [Fondos](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#fondos)
+    - [Texto y Fuentes](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#texto-y-fuentes)
 
 # Fundamentos de HTML
 
@@ -269,7 +269,7 @@ De cualquier manera, SVG se ha ido imponiendo poco a poco como formato estándar
 ```
 _Ejemplo de HTML con SVG_
 
-> #### ¿Qué te pareció el contenido de HTML?. Si quieres te dejo una infografía que resume un poco el tema tratado con HTML la cual podrás consultar y descargar [presiona aquí](https://github.com/U-Camp/BOOT-M1-SEM1/blob/main/infografias/M1_S1_Infografia%2001.pdf) 
+> #### ¿Qué te pareció el contenido de HTML?. Si quieres te dejo una infografía que resume un poco el tema tratado con HTML la cual podrás consultar y descargar [presiona aquí](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF/blob/main/infografias/M1_S1_Infografia%2001.pdf) 
 
 > #### Ahora bien, hasta ahora has notado que únicamente hemos hablado y visto la estructura de un documento HTML.
 > #### Pero quizás te preguntarás, ¿Cómo se desarrolla el diseño visual de este documento?, para ello iniciamos con el contenido de CSS que sigue a continuación. 
@@ -527,7 +527,7 @@ Para poder configurar el texto y que el explorador cargue las fuentes específic
 
 Para acortar código, es posible usar la directiva `font` directamente y asignar esos valores, no requiriendo estar en algún orden en específico, pero sí, al menos que se defina el tamaño y la familia (ejemplo `font: 12px Arial, sans-serif;`).
 
-> #### ¿Qué te pareción el contenido de CSS?, si deseas puedes consultar y descargar una infografía sobre este contenido, [Presiona aquí](https://github.com/U-Camp/BOOT-M1-SEM1/blob/main/infografias/M1_S1_Infografia%2002%20(1).pdf)
+> #### ¿Qué te pareción el contenido de CSS?, si deseas puedes consultar y descargar una infografía sobre este contenido, [Presiona aquí](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF/blob/main/infografias/M1_S1_Infografia%2002%20(1).pdf)
 
 > #### Muy bien, llegamos hasta aquí por ahora, recuerda que puedes hacerle preguntas a tus coaches en caso de ser necesario, leer el contenido nuevamente si así lo deseas y puedes practicar lo aprendido ingresando a este link https://codepen.io/pen/  
 > #### Nos vemos en la siguiente semana. :smiley:
