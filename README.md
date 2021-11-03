@@ -1,6 +1,6 @@
 ![Banner](imagenes/banner.png)
 
-# M3SEM3Y4: Fundamentos de HTML y CSS 
+# M3S3Y4: Fundamentos de HTML y CSS 
 
 > #### **¡Hola, damos inicio al módulo 3!**
 > #### Espero te encuentres muy bien y con mucha motivación para continuar el recorrido, supongo que ya tienes instalado todo lo necesario para que tu computadora esté lista para trabajar.
@@ -11,7 +11,6 @@ En esta sesión, iniciamos con los conceptos básicos de HTML y CSS, relativas a
 
 # ÍNDICE
 
-- [Objetivos de aprendizaje](#)
 - [Fundamentos de HTML](https://github.com/U-Camp/BOOT-M1-SEM1#fundamentos-de-html)
     - [Etiquetas y atributos](https://github.com/U-Camp/BOOT-M1-SEM1#etiquetas-y-atributos)
       - [Formato](https://github.com/U-Camp/BOOT-M1-SEM1#formato)
