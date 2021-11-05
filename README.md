@@ -517,15 +517,24 @@ La mayoría de las páginas y aplicaciones web, usan fuentes de texto específic
 
 Para poder configurar el texto y que el explorador cargue las fuentes específicas para esta página y las aplique, se usan varias directivas que permiten especificar la familia de la fuente, su tipo, su formato, tamaño y estilo de un texto en específico, las cuales son las siguientes:
 
-  **o font-family:** Establece la familia de la fuente a usar para el texto, puede contener varias fuentes en orden de prioridad por si el navegador no puede cargar alguna o no la soporta intentar la siguiente. Ejemplo `font-family: Arial, Helvetica, sans-serif;`.
+  - **font-family:** Establece la familia de la fuente a usar para el texto, puede contener varias fuentes en orden de prioridad por si el navegador no puede cargar alguna o no la soporta intentar la siguiente. Ejemplo `font-family: Arial, Helvetica, sans-serif;`.
   
-  **o font-style:** Especifica si se aplica un estilo itálico al texto. Tiene 3 posibles valores: normal, italic y oblique, aunque este último es menos soportado en los navegadores. Ejemplo `font-style: italic;`.
+  - **font-style:** Especifica si se aplica un estilo itálico al texto. Tiene 3 posibles valores: normal, italic y oblique, aunque este último es menos soportado en los navegadores. Ejemplo `font-style: italic;`.
   
-  **o font-weight:** Especifica si se aplica un estilo “negrita” al texto. Tiene 2 posibles valores: normal y bold. Ejemplo `font-weight: bold;`.
+  - **font-weight:** Especifica si se aplica un estilo “negrita” al texto. Tiene 2 posibles valores: normal y bold. Ejemplo `font-weight: bold;`.
   
-  **o font-size:** Especifica el tamaño del texto. Acepta valores absolutos (como son tamaños estáticos dados en pixeles) o valores relativos (que son dados en proporción al elemento que los contiene). Ejemplo `font-size: 16px;` o `font-size: 2.5em;`.
+  - **font-size:** Especifica el tamaño del texto. Acepta valores absolutos (como son tamaños estáticos dados en pixeles) o valores relativos (que son dados en proporción al elemento que los contiene). Ejemplo `font-size: 16px;` o `font-size: 2.5em;`.
 
 Para acortar código, es posible usar la directiva `font` directamente y asignar esos valores, no requiriendo estar en algún orden en específico, pero sí, al menos que se defina el tamaño y la familia (ejemplo `font: 12px Arial, sans-serif;`).
+
+# Elementos Bonus
+
+-**text-align:** especifica la alineación horizontal del texto en un elemento. 
+-**line-height:** establece la altura de una casilla remarcada por líneas.
+-**border-bottom:** permite de definir de una vez todas las propiedades individuales border-bottom-color, border-bottom-style, y border-bottom-width, las cuales describen el color, estilo y ancho del borde inferior de un elementos.
+-**float:** ubica un elemento al lado izquierdo o derecho de su contenedor, permitiendo a los elementos de texto y en línea aparecer a su costado.
+-**min-height:** establece la altura mínima de los elementos de un bloque.
+
 
 > #### ¿Qué te pareción el contenido de CSS?, si deseas puedes consultar y descargar una infografía sobre este contenido, [Presiona aquí](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF/blob/main/infografias/M3_S3_4_Infografia_css.pdf)
 
