@@ -26,7 +26,7 @@ En esta sesión, iniciamos con los conceptos básicos de HTML y CSS, relativas a
     - [Colores](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#colores)
     - [Fondos](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#fondos)
     - [Texto y Fuentes](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#texto-y-fuentes)
-    - [Elementos Bonus](https://github.com/U-Camp/BOOT-M3-S3YS4-WDF/#elementos-bonus)
+    - [Propiedades Bonus](https://github.com/U-Camp/BOOT-M3-S3YS4-WDF/#propiedades-bonus)
 
 # Fundamentos de HTML
 
@@ -528,7 +528,7 @@ Para poder configurar el texto y que el explorador cargue las fuentes específic
 
 Para acortar código, es posible usar la directiva `font` directamente y asignar esos valores, no requiriendo estar en algún orden en específico, pero sí, al menos que se defina el tamaño y la familia (ejemplo `font: 12px Arial, sans-serif;`).
 
-# Elementos Bonus
+# Propiedades Bonus
 
 -**text-align:** especifica la alineación horizontal del texto en un elemento. 
 
