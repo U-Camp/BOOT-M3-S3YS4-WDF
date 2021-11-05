@@ -26,6 +26,7 @@ En esta sesión, iniciamos con los conceptos básicos de HTML y CSS, relativas a
     - [Colores](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#colores)
     - [Fondos](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#fondos)
     - [Texto y Fuentes](https://github.com/U-Camp/BOOT-M3-S3Y4-WDF#texto-y-fuentes)
+    - [Elementos Bonus](https://github.com/U-Camp/BOOT-M3-S3YS4-WDF/#elementos-bonus)
 
 # Fundamentos de HTML
 
