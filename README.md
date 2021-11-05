@@ -530,9 +530,13 @@ Para acortar código, es posible usar la directiva `font` directamente y asignar
 # Elementos Bonus
 
 -**text-align:** especifica la alineación horizontal del texto en un elemento. 
+
 -**line-height:** establece la altura de una casilla remarcada por líneas.
+
 -**border-bottom:** permite de definir de una vez todas las propiedades individuales border-bottom-color, border-bottom-style, y border-bottom-width, las cuales describen el color, estilo y ancho del borde inferior de un elementos.
+
 -**float:** ubica un elemento al lado izquierdo o derecho de su contenedor, permitiendo a los elementos de texto y en línea aparecer a su costado.
+
 -**min-height:** establece la altura mínima de los elementos de un bloque.
 
 
