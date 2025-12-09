@@ -1,8 +1,8 @@
 ![Banner](imagenes/banner.png)
 
-# WDF M3 S3 Y S4: Fundamentos de HTML y CSS 
+# WDF: Fundamentos de HTML y CSS 
 
-> #### **¡Hola, damos inicio al módulo 3!**
+> #### **¡Hola!**
 > #### Espero te encuentres muy bien y con mucha motivación para continuar el recorrido, recuerda siempre por qué estas aquí y sigue adelante.
 > #### **Continuemos...**
 
