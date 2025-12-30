@@ -1,6 +1,6 @@
 ![Banner](imagenes/banner.png)
 
-# WDF: Fundamentos de HTML y CSS 
+# WDF S3 y S4: Fundamentos de HTML y CSS 
 
 > #### **¡Hola!**
 > #### Espero te encuentres muy bien y con mucha motivación para continuar el recorrido, recuerda siempre por qué estas aquí y sigue adelante.
