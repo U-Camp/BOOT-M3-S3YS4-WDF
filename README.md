@@ -109,7 +109,7 @@ El atributo target especifica dónde se abrirá el enlace, acepta 4 posibles val
 - `_parent` si la página se abrió desde otra página, entonces el enlace se abrirá en la página inicial,
 - `_top`, su uso es en iframes e indica que el enlace debe abrirse en la página más elevada del documento principal; los dos últimos son considerados una mala práctica (así como el uso de iframes) y no se recomienda su uso.
 
->#### ¿Cómo vas?, te recuerdo que puedes volver a leer el contenido cuantas veces lo necesites, es tu primera semana y estás aprendiendo, no te preocupes todo saldrá bien, recuerda lo que te hizo llegar hasta aquí y te queda mucho por aprender. ¡No dudes en preguntar a tus coaches e incluso escribir en teams, es posible que muchos de tus compañeros tengan las mismas dudas que tienes tu. 
+>#### ¿Cómo vas?, te recuerdo que puedes volver a leer el contenido cuantas veces lo necesites, es tu primera semana y estás aprendiendo, no te preocupes todo saldrá bien, recuerda lo que te hizo llegar hasta aquí y te queda mucho por aprender. ¡No dudes en preguntar a tus coaches e incluso escribir en tu equipo, es posible que muchos de tus compañeros tengan las mismas dudas que tienes tu. 
 >#### ¡Seamos un gran equipo!
 >#### :+1:
 >#### Continuemos...
